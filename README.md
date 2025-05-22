@@ -1,6 +1,4 @@
-Certainly! Here's a properly formatted README file for your GitHub repository:
 
----
 
 # Todo Summary Assistant
 
@@ -168,7 +166,3 @@ Optional:
 * Enhance Slack message formatting with richer content.
 * Add pagination for large to-do lists.
 * Implement error handling for rate limits and network failures.
-
----
-
-Feel free to customize and update sections as needed for your specific project details and preferences.
